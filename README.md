@@ -5,6 +5,8 @@ Este é um projeto de API REST desenvolvido com Node.js e TypeScript, utilizando
 ## Descrição
 
 O objetivo deste projeto é criar uma API REST robusta e escalável para gerenciar produtos, seguindo as melhores práticas de desenvolvimento de software.
+## Preview
+[VisualizaçãoDoProjeto](./preview.png)
 
 ## Tecnologias Utilizadas
 
